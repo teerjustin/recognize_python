@@ -1,9 +1,9 @@
 
-# data type Numbers
+# data type Numbers(int)
 num1 = 42
 
 
-# data type Numbers
+# data type float
 num2 = 2.3
 
 # data type Boolean
